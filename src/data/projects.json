@@ -1,0 +1,34 @@
+[
+    {
+      "title": "Hotstar clone",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Html", "css", "Javascript"],
+      "demo": "https://disneyhotstarclone7.netlify.app/",
+      "source": "https://github.com/antonIgnatius"
+    },
+    {
+      "title": "Chatbot App",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://timesheetbuddy.netlify.app/",
+      "source": "https://github.com/antonIgnatius"
+    },
+    {
+      "title": "Todo list (full-stack)",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Java", "Springboot","JPA","Hibernate","MySql"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/antonIgnatius"
+    },
+    {
+      "title": "More project soon ........",
+      "imageSrc": "projects/project.png",
+      "description": "NOTE: don't foget to click demo",
+      "skills": ["learning new tech everyday"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/antonIgnatius"
+    }
+  ]

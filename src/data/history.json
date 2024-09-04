@@ -1,0 +1,19 @@
+[
+    {
+       "imageSrc": "history/besant.jpg",
+      "role": "Full stack internship",
+      "organisation": "Besant Technologies",
+      "startDate": "March, 2024",
+      "endDate": "Present",
+     "responsibilities": [
+    "Developed and optimized a Police Record Management System using Oracle SQL, focusing on database schema design and data integrity.",
+    
+    "Created a full-stack TODO application using React, Redux, and Hooks for the frontend, and a RESTful API with Spring Boot, Hibernate, and JPA for the backend.",
+    
+    "Designed and implemented the user interface for a chatbot AI application using React, providing timesheet-related support and guidance for employees."
+]
+
+     
+    }
+    
+  ]
